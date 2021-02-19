@@ -12,6 +12,7 @@ cat << EOM > /var/www/html/index.html
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
   Welcome to ${PREFIX}'s app. Replace this text with your own.
+  Welcome to the app.  You can do anything with this app.  Do you really want the world to be a better place if you're not doing it?
   <!-- END -->
 
   </div>
